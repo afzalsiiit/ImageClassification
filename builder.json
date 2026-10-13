@@ -1,5 +1,5 @@
 {
-  "project": "imagegen",
+  "project": "ImageClassification",
   "platform": "ios",
   "github": {
     "owner": "afzalsiiit",
