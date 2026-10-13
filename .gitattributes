@@ -1,2 +1,5 @@
-assets/models/dinov2_best.onnx filter=lfs diff=lfs merge=lfs -text
+# assets/models/dinov2_best.onnx filter=lfs diff=lfs merge=lfs -text
+# assets/models/dinov2_best.onnx.data filter=lfs diff=lfs merge=lfs -text
+# *.onnx filter=lfs diff=lfs merge=lfs -text
+models/dinov2_best.onnx.data filter=lfs diff=lfs merge=lfs -text
 assets/models/dinov2_best.onnx.data filter=lfs diff=lfs merge=lfs -text
